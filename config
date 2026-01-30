@@ -1,6 +1,9 @@
 font-family = Monaspace Argon
 font-size = 16
 macos-option-as-alt = true
+window-padding-x = 10
+window-padding-y = 10
+cursor-style = bar
 
 background = 080808
 foreground = d1d5da
@@ -18,7 +21,7 @@ palette = 6=#55D9C9
 palette = 7=#d1d5da
 
 # ANSI colors (bright)
-palette = 8=#4d4d4d
+palette = 8=#707070
 palette = 9=#f87171
 palette = 10=#34d058
 palette = 11=#fdce75
